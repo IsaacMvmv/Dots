@@ -2,8 +2,7 @@
 The dotfiles I have on my main machine in case the drive pops
 
 # Look:
-![demo]([[https://i.imgur.com/Hoi0fF7.gif](https://raw.githubusercontent.com/IsaacMvmv/Dots/refs/heads/main/desktop.gif)])
-
+![demo](https://raw.githubusercontent.com/IsaacMvmv/Dots/refs/heads/main/desktop.gif)
 # Description
 Pywal. PYWAL. Pywal+hyprland // Pywal+bspwm.
 
