@@ -27,4 +27,6 @@ Didn't touch much the config, I probably should.
 
 
 # To-include:
-https://github.com/phisch/giph
+- https://github.com/phisch/giph
+- Wallpaper explainations
+- More
