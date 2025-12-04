@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/cars/Cars-3-race-car-accident_3840x2160.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#160f12",
+        "foreground": "#cedde7",
+        "cursor": "#cedde7"
+    },
+    "colors": {
+        "color0": "#160f12",
+        "color1": "#75899C",
+        "color2": "#78A0C4",
+        "color3": "#99A0AA",
+        "color4": "#DFBAA0",
+        "color5": "#AAB9C6",
+        "color6": "#B4CDD6",
+        "color7": "#cedde7",
+        "color8": "#909aa1",
+        "color9": "#75899C",
+        "color10": "#78A0C4",
+        "color11": "#99A0AA",
+        "color12": "#DFBAA0",
+        "color13": "#AAB9C6",
+        "color14": "#B4CDD6",
+        "color15": "#cedde7"
+    }
+}

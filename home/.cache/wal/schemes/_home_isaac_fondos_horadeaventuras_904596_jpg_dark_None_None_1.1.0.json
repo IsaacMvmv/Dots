@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/horadeaventuras/904596.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#335640",
+        "foreground": "#e8e2ec",
+        "cursor": "#e8e2ec"
+    },
+    "colors": {
+        "color0": "#335640",
+        "color1": "#C6B7DB",
+        "color2": "#A6CAD3",
+        "color3": "#8DCAFF",
+        "color4": "#A2DAFF",
+        "color5": "#B2E1FF",
+        "color6": "#D3CFE8",
+        "color7": "#e8e2ec",
+        "color8": "#a29ea5",
+        "color9": "#C6B7DB",
+        "color10": "#A6CAD3",
+        "color11": "#8DCAFF",
+        "color12": "#A2DAFF",
+        "color13": "#B2E1FF",
+        "color14": "#D3CFE8",
+        "color15": "#e8e2ec"
+    }
+}

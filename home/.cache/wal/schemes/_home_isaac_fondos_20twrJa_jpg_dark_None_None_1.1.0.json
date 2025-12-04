@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/20twrJa.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#060C13",
+        "foreground": "#e2888c",
+        "cursor": "#e2888c"
+    },
+    "colors": {
+        "color0": "#060C13",
+        "color1": "#444342",
+        "color2": "#8F0813",
+        "color3": "#AF0714",
+        "color4": "#9C242C",
+        "color5": "#CF0615",
+        "color6": "#ED0516",
+        "color7": "#e2888c",
+        "color8": "#9e5f62",
+        "color9": "#444342",
+        "color10": "#8F0813",
+        "color11": "#AF0714",
+        "color12": "#9C242C",
+        "color13": "#CF0615",
+        "color14": "#ED0516",
+        "color15": "#e2888c"
+    }
+}

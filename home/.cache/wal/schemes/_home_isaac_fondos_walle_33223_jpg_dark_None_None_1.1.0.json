@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/walle/33223.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#130d0b",
+        "foreground": "#dfe1de",
+        "cursor": "#dfe1de"
+    },
+    "colors": {
+        "color0": "#130d0b",
+        "color1": "#87847A",
+        "color2": "#C4A65D",
+        "color3": "#92918B",
+        "color4": "#A3A29A",
+        "color5": "#B2B3AE",
+        "color6": "#C4C3BB",
+        "color7": "#dfe1de",
+        "color8": "#9c9d9b",
+        "color9": "#87847A",
+        "color10": "#C4A65D",
+        "color11": "#92918B",
+        "color12": "#A3A29A",
+        "color13": "#B2B3AE",
+        "color14": "#C4C3BB",
+        "color15": "#dfe1de"
+    }
+}

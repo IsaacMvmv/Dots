@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/walle/wall-e-5k-cn.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#05091F",
+        "foreground": "#c8e1ec",
+        "cursor": "#c8e1ec"
+    },
+    "colors": {
+        "color0": "#05091F",
+        "color1": "#066CB0",
+        "color2": "#4376A2",
+        "color3": "#17A3D8",
+        "color4": "#59B2DD",
+        "color5": "#61B2D5",
+        "color6": "#99B0C1",
+        "color7": "#c8e1ec",
+        "color8": "#8c9da5",
+        "color9": "#066CB0",
+        "color10": "#4376A2",
+        "color11": "#17A3D8",
+        "color12": "#59B2DD",
+        "color13": "#61B2D5",
+        "color14": "#99B0C1",
+        "color15": "#c8e1ec"
+    }
+}

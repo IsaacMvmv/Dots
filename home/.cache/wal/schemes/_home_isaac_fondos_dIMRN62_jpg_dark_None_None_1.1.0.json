@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/dIMRN62.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0A0A",
+        "foreground": "#dedede",
+        "cursor": "#dedede"
+    },
+    "colors": {
+        "color0": "#0A0A0A",
+        "color1": "#58E219",
+        "color2": "#7E9781",
+        "color3": "#8E8E8E",
+        "color4": "#95AD97",
+        "color5": "#AFAFAF",
+        "color6": "#B6C4B8",
+        "color7": "#dedede",
+        "color8": "#9b9b9b",
+        "color9": "#58E219",
+        "color10": "#7E9781",
+        "color11": "#8E8E8E",
+        "color12": "#95AD97",
+        "color13": "#AFAFAF",
+        "color14": "#B6C4B8",
+        "color15": "#dedede"
+    }
+}

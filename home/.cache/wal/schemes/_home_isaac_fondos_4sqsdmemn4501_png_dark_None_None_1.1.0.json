@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/4sqsdmemn4501.png",
+    "alpha": "100",
+    "special": {
+        "background": "#030203",
+        "foreground": "#e89d9d",
+        "cursor": "#e89d9d"
+    },
+    "colors": {
+        "color0": "#030203",
+        "color1": "#554848",
+        "color2": "#8F0405",
+        "color3": "#B00404",
+        "color4": "#BF1112",
+        "color5": "#983637",
+        "color6": "#AE4546",
+        "color7": "#e89d9d",
+        "color8": "#a26d6d",
+        "color9": "#554848",
+        "color10": "#8F0405",
+        "color11": "#B00404",
+        "color12": "#BF1112",
+        "color13": "#983637",
+        "color14": "#AE4546",
+        "color15": "#e89d9d"
+    }
+}

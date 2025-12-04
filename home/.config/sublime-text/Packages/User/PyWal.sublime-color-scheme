@@ -1,0 +1,211 @@
+{
+    "name": "Pywal",
+    "variables": {
+        "base00": "#120707",
+        "base01": "#A35A5B",
+        "base02": "#D0745D",
+        "base03": "#E4883F",
+        "base04": "#EB9A69",
+        "base05": "#FBC876",
+        "base06": "#F7B185",
+        "base07": "#c3c1c1",
+        "base08": "#6a5656",
+        "base09": "#A35A5B",
+        "base0A": "#D0745D",
+        "base0B": "#E4883F",
+        "base0C": "#EB9A69",
+        "base0D": "#FBC876",
+        "base0E": "#F7B185",
+        "base0F": "#c3c1c1",
+        "--blueish": "var(base0D)",
+        "--cyanish": "var(base0C)",
+        "--greenish": "var(base0B)",
+        "--orangish": "var(base09)",
+        "--pinkish": "var(base0E)",
+        "--purplish": "var(base0E)",
+        "--redish": "var(base08)",
+        "--yellowish": "var(base0A)"
+    },
+    "globals": {
+        "accent": "var(--yellowish)",
+        "foreground": "#c3c1c1",
+        "background": "#120707",
+        "invisibles": "var(base03)",
+        "fold_marker": "var(base04)",
+        "shadow": "color(black alpha(10%))",
+        "shadow_width": "4",
+        "brackets_foreground": "var(base06)",
+        "brackets_options": "foreground glow",
+        "bracket_contents_foreground": "var(base06)",
+        "bracket_contents_options": "foreground",
+        "tags_foreground": "var(base08)",
+        "tags_options": "glow",
+        "caret": "#c3c1c1",
+        "active_guide": "color(var(base05) alpha(0.2))",
+        "stack_guide": "color(var(base04) alpha(0.15))",
+        "guide": "color(var(base03) alpha(0.1))",
+        "gutter_foreground": "color(var(base04) alpha(0.6))",
+        "gutter_foreground_highlight": "color(var(base05) alpha(0.8))",
+        "line_diff_width": "2",
+        "line_highlight": "color(var(base03) alpha(10%))",
+        "selection": "color(var(base02) alpha(0.3))",
+        "selection_border": "color(var(base01) alpha(0.2))",
+        "selection_corner_style": "square"
+    },
+    "rules": [
+        {
+            "name": "Comments",
+            "scope": "comment, punctuation.definition.comment",
+            "foreground": "var(base03)"
+        },
+        {
+            "name": "Delimiters",
+            "scope": "punctuation.accessor, punctuation.separator, punctuation.terminator",
+            "foreground": "var(base0C)"
+        },
+        {
+            "name": "Definition Punctuation",
+            "scope": "punctuation.definition",
+            "foreground": "var(base0C)"
+        },
+        {
+            "name": "Section Punctuation",
+            "scope": "punctuation.section",
+            "foreground": "var(base04)"
+        },
+        {
+            "name": "Keywords",
+            "scope": "keyword, keyword.operator.word",
+            "foreground": "var(base0E)"
+        },
+        {
+            "name": "Operators",
+            "scope": "keyword.operator",
+            "foreground": "var(base08)"
+        },
+        {
+            "name": "Classes",
+            "scope": "entity.name.class, entity.name.type.class, entity.other.inherited-class, support.class",
+            "foreground": "var(base0A)"
+        },
+        {
+            "name": "Functions",
+            "scope": "entity.name.function, support.function, variable.function",
+            "foreground": "var(base0D)"
+        },
+        {
+            "name": "Types",
+            "scope": "keyword.declaration, storage, support.type",
+            "foreground": "var(base0E)"
+        },
+        {
+            "name": "Variables",
+            "scope": "entity.name.variable, variable, punctuation.definition.variable",
+            "foreground": "var(base06)"
+        },
+        {
+            "name": "Built-in Variables",
+            "scope": "variable.language",
+            "foreground": "var(base08)",
+            "font_style": "italic"
+        },
+        {
+            "name": "Constants",
+            "scope": "constant, keyword.other.unit",
+            "foreground": "var(base09)"
+        },
+        {
+            "name": "Built-in Constants",
+            "scope": "constant.language, support.constant",
+            "foreground": "var(base09)",
+            "font_style": "italic"
+        },
+        {
+            "name": "Numbers",
+            "scope": "constant.numeric",
+            "foreground": "var(base09)"
+        },
+        {
+            "name": "Strings",
+            "scope": "string",
+            "foreground": "var(base0B)"
+        },
+        {
+            "name": "Escape Characters",
+            "scope": "constant.character.escape",
+            "foreground": "var(base0C)"
+        },
+        {
+            "name": "Regular Expressions",
+            "scope": "string.regexp",
+            "foreground": "var(base0C)"
+        },
+        {
+            "name": "Tags",
+            "scope": "entity.name.tag",
+            "foreground": "var(base08)"
+        },
+        {
+            "name": "Attributes",
+            "scope": "entity.other.attribute-name",
+            "foreground": "var(base09)"
+        },
+        {
+            "name": "Invalid",
+            "scope": "invalid.illegal",
+            "foreground": "var(base00)",
+            "background": "var(base08)"
+        },
+        {
+            "name": "Headings",
+            "scope": "markup.heading",
+            "foreground": "var(base0C)"
+        },
+        {
+            "name": "Bold",
+            "scope": "markup.bold",
+            "font_style": "bold"
+        },
+        {
+            "name": "Italic",
+            "scope": "markup.italic",
+            "font_style": "italic"
+        },
+        {
+            "name": "Inline Code",
+            "scope": "markup.raw.inline",
+            "foreground": "var(base0B)"
+        },
+        {
+            "name": "Inserted",
+            "scope": "markup.inserted",
+            "foreground": "var(--greenish)"
+        },
+        {
+            "name": "Deleted",
+            "scope": "markup.deleted",
+            "foreground": "var(--redish)"
+        },
+        {
+            "name": "Changed",
+            "scope": "markup.changed",
+            "foreground": "var(--orangish)"
+        },
+        {
+            "name": "Info",
+            "scope": "markup.info",
+            "foreground": "var(--greenish)"
+        },
+        {
+            "name": "Error",
+            "scope": "markup.error",
+            "foreground": "var(--redish)"
+        },
+        {
+            "name": "Warning",
+            "scope": "markup.warning",
+            "foreground": "var(--orangish)"
+        }
+    ],
+    "semanticClass": "theme.dark.pywal"
+}

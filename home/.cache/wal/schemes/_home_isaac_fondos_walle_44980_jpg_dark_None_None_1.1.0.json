@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/walle/44980.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0704",
+        "foreground": "#debf87",
+        "cursor": "#debf87"
+    },
+    "colors": {
+        "color0": "#0a0704",
+        "color1": "#4B3427",
+        "color2": "#6B4823",
+        "color3": "#423A4E",
+        "color4": "#9F681A",
+        "color5": "#BC7825",
+        "color6": "#B88629",
+        "color7": "#debf87",
+        "color8": "#9b855e",
+        "color9": "#4B3427",
+        "color10": "#6B4823",
+        "color11": "#423A4E",
+        "color12": "#9F681A",
+        "color13": "#BC7825",
+        "color14": "#B88629",
+        "color15": "#debf87"
+    }
+}

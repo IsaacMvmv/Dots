@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/shark.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0C16",
+        "foreground": "#a3ddf1",
+        "cursor": "#a3ddf1"
+    },
+    "colors": {
+        "color0": "#0B0C16",
+        "color1": "#07A856",
+        "color2": "#03609A",
+        "color3": "#035AA7",
+        "color4": "#059899",
+        "color5": "#13A0DD",
+        "color6": "#24C5C2",
+        "color7": "#a3ddf1",
+        "color8": "#729aa8",
+        "color9": "#07A856",
+        "color10": "#03609A",
+        "color11": "#035AA7",
+        "color12": "#059899",
+        "color13": "#13A0DD",
+        "color14": "#24C5C2",
+        "color15": "#a3ddf1"
+    }
+}

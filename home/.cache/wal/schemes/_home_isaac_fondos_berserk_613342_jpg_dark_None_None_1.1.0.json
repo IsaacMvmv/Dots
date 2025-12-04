@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/berserk/613342.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0305",
+        "foreground": "#e7e7e6",
+        "cursor": "#e7e7e6"
+    },
+    "colors": {
+        "color0": "#0a0305",
+        "color1": "#81807E",
+        "color2": "#908F8F",
+        "color3": "#A0A09E",
+        "color4": "#B1B1B0",
+        "color5": "#C0C1BE",
+        "color6": "#CFD0CE",
+        "color7": "#e7e7e6",
+        "color8": "#a1a1a1",
+        "color9": "#81807E",
+        "color10": "#908F8F",
+        "color11": "#A0A09E",
+        "color12": "#B1B1B0",
+        "color13": "#C0C1BE",
+        "color14": "#CFD0CE",
+        "color15": "#e7e7e6"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/solntse-igra-zvezda-fon-molnii-miami-hotline-miami-synthpop.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1014",
+        "foreground": "#ebae9f",
+        "cursor": "#ebae9f"
+    },
+    "colors": {
+        "color0": "#0f1014",
+        "color1": "#863E46",
+        "color2": "#914349",
+        "color3": "#B0494F",
+        "color4": "#B36944",
+        "color5": "#D05156",
+        "color6": "#E35C56",
+        "color7": "#ebae9f",
+        "color8": "#a4796f",
+        "color9": "#863E46",
+        "color10": "#914349",
+        "color11": "#B0494F",
+        "color12": "#B36944",
+        "color13": "#D05156",
+        "color14": "#E35C56",
+        "color15": "#ebae9f"
+    }
+}

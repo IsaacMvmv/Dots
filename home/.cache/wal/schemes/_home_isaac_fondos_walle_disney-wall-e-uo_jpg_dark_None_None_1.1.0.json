@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/walle/disney-wall-e-uo.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#060B15",
+        "foreground": "#c9dee5",
+        "cursor": "#c9dee5"
+    },
+    "colors": {
+        "color0": "#060B15",
+        "color1": "#2C5270",
+        "color2": "#4F5E69",
+        "color3": "#938768",
+        "color4": "#236A93",
+        "color5": "#4B738E",
+        "color6": "#3C90B8",
+        "color7": "#c9dee5",
+        "color8": "#8c9ba0",
+        "color9": "#2C5270",
+        "color10": "#4F5E69",
+        "color11": "#938768",
+        "color12": "#236A93",
+        "color13": "#4B738E",
+        "color14": "#3C90B8",
+        "color15": "#c9dee5"
+    }
+}

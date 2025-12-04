@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/BmUXDty.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d110d",
+        "foreground": "#79cace",
+        "cursor": "#79cace"
+    },
+    "colors": {
+        "color0": "#0d110d",
+        "color1": "#115F5B",
+        "color2": "#035B64",
+        "color3": "#056B72",
+        "color4": "#0E817D",
+        "color5": "#047A85",
+        "color6": "#068B93",
+        "color7": "#79cace",
+        "color8": "#548d90",
+        "color9": "#115F5B",
+        "color10": "#035B64",
+        "color11": "#056B72",
+        "color12": "#0E817D",
+        "color13": "#047A85",
+        "color14": "#068B93",
+        "color15": "#79cace"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/win10.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#043FB5",
+        "foreground": "#a2eef5",
+        "cursor": "#a2eef5"
+    },
+    "colors": {
+        "color0": "#043FB5",
+        "color1": "#229DFA",
+        "color2": "#01AEF8",
+        "color3": "#22A8FE",
+        "color4": "#1BCBFC",
+        "color5": "#23C8FC",
+        "color6": "#29E7FC",
+        "color7": "#a2eef5",
+        "color8": "#71a6ab",
+        "color9": "#229DFA",
+        "color10": "#01AEF8",
+        "color11": "#22A8FE",
+        "color12": "#1BCBFC",
+        "color13": "#23C8FC",
+        "color14": "#29E7FC",
+        "color15": "#a2eef5"
+    }
+}

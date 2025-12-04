@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/ahgo3vE.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#242c34",
+        "foreground": "#e4e8e9",
+        "cursor": "#e4e8e9"
+    },
+    "colors": {
+        "color0": "#242c34",
+        "color1": "#B9C3BC",
+        "color2": "#B3BBC3",
+        "color3": "#BAC5C9",
+        "color4": "#ADCAD2",
+        "color5": "#CCD4D7",
+        "color6": "#D6DEE1",
+        "color7": "#e4e8e9",
+        "color8": "#9fa2a3",
+        "color9": "#B9C3BC",
+        "color10": "#B3BBC3",
+        "color11": "#BAC5C9",
+        "color12": "#ADCAD2",
+        "color13": "#CCD4D7",
+        "color14": "#D6DEE1",
+        "color15": "#e4e8e9"
+    }
+}

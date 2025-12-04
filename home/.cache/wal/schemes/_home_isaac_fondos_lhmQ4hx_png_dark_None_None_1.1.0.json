@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/lhmQ4hx.png",
+    "alpha": "100",
+    "special": {
+        "background": "#3e281e",
+        "foreground": "#e8e3e5",
+        "cursor": "#e8e3e5"
+    },
+    "colors": {
+        "color0": "#3e281e",
+        "color1": "#D95EA0",
+        "color2": "#BDB9A0",
+        "color3": "#D396A0",
+        "color4": "#D0AEB7",
+        "color5": "#DAACCE",
+        "color6": "#D8D0D2",
+        "color7": "#e8e3e5",
+        "color8": "#a29ea0",
+        "color9": "#D95EA0",
+        "color10": "#BDB9A0",
+        "color11": "#D396A0",
+        "color12": "#D0AEB7",
+        "color13": "#DAACCE",
+        "color14": "#D8D0D2",
+        "color15": "#e8e3e5"
+    }
+}

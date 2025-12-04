@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/UEmidGC.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0d0d",
+        "foreground": "#ede7cc",
+        "cursor": "#ede7cc"
+    },
+    "colors": {
+        "color0": "#0d0d0d",
+        "color1": "#4D4D4D",
+        "color2": "#67655B",
+        "color3": "#936D46",
+        "color4": "#728C67",
+        "color5": "#B39A67",
+        "color6": "#BAB68E",
+        "color7": "#ede7cc",
+        "color8": "#a5a18e",
+        "color9": "#4D4D4D",
+        "color10": "#67655B",
+        "color11": "#936D46",
+        "color12": "#728C67",
+        "color13": "#B39A67",
+        "color14": "#BAB68E",
+        "color15": "#ede7cc"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/AnEvemA.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#101221",
+        "foreground": "#f2ddce",
+        "cursor": "#f2ddce"
+    },
+    "colors": {
+        "color0": "#101221",
+        "color1": "#917571",
+        "color2": "#B88B73",
+        "color3": "#8E7D81",
+        "color4": "#AD9389",
+        "color5": "#DBB19B",
+        "color6": "#DBC5AB",
+        "color7": "#f2ddce",
+        "color8": "#a99a90",
+        "color9": "#917571",
+        "color10": "#B88B73",
+        "color11": "#8E7D81",
+        "color12": "#AD9389",
+        "color13": "#DBB19B",
+        "color14": "#DBC5AB",
+        "color15": "#f2ddce"
+    }
+}

@@ -1,0 +1,21 @@
+set $wallpaper /home/isaac/fondos/vinlandsaga/frame1189.png
+
+set $background #120707
+set $foreground #c3c1c1
+
+set $color0 #120707
+set $color1 #A35A5B
+set $color2 #D0745D
+set $color3 #E4883F
+set $color4 #EB9A69
+set $color5 #FBC876
+set $color6 #F7B185
+set $color7 #c3c1c1
+set $color8 #6a5656
+set $color9 #A35A5B
+set $color10 #D0745D
+set $color11 #E4883F
+set $color12 #EB9A69
+set $color13 #FBC876
+set $color14 #F7B185
+set $color15 #c3c1c1

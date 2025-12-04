@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/monstruos_sa/monsters-university-mike-wazowski-4k-tk.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0F11",
+        "foreground": "#9ecae6",
+        "cursor": "#9ecae6"
+    },
+    "colors": {
+        "color0": "#0A0F11",
+        "color1": "#169764",
+        "color2": "#263C8A",
+        "color3": "#1B50A1",
+        "color4": "#1F73C7",
+        "color5": "#25B2AB",
+        "color6": "#338BD2",
+        "color7": "#9ecae6",
+        "color8": "#6e8da1",
+        "color9": "#169764",
+        "color10": "#263C8A",
+        "color11": "#1B50A1",
+        "color12": "#1F73C7",
+        "color13": "#25B2AB",
+        "color14": "#338BD2",
+        "color15": "#9ecae6"
+    }
+}

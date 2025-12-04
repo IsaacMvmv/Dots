@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/isaac/fondos/vinlandsaga/frame1189.png"
+let background = "#120707"
+let foreground = "#c3c1c1"
+let cursor     = "#c3c1c1"
+
+" Colors
+let color0  = "#120707"
+let color1  = "#A35A5B"
+let color2  = "#D0745D"
+let color3  = "#E4883F"
+let color4  = "#EB9A69"
+let color5  = "#FBC876"
+let color6  = "#F7B185"
+let color7  = "#c3c1c1"
+let color8  = "#6a5656"
+let color9  = "#A35A5B"
+let color10 = "#D0745D"
+let color11 = "#E4883F"
+let color12 = "#EB9A69"
+let color13 = "#FBC876"
+let color14 = "#F7B185"
+let color15 = "#c3c1c1"

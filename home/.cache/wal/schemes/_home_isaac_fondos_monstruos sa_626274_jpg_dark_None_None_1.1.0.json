@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/monstruos sa/626274.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#060713",
+        "foreground": "#c5e3f4",
+        "cursor": "#c5e3f4"
+    },
+    "colors": {
+        "color0": "#060713",
+        "color1": "#4A57A0",
+        "color2": "#3769CE",
+        "color3": "#4E71D9",
+        "color4": "#8873C9",
+        "color5": "#619DF3",
+        "color6": "#6BB7EF",
+        "color7": "#c5e3f4",
+        "color8": "#899eaa",
+        "color9": "#4A57A0",
+        "color10": "#3769CE",
+        "color11": "#4E71D9",
+        "color12": "#8873C9",
+        "color13": "#619DF3",
+        "color14": "#6BB7EF",
+        "color15": "#c5e3f4"
+    }
+}

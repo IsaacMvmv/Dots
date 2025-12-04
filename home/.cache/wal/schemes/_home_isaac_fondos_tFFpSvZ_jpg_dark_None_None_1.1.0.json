@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/tFFpSvZ.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a070c",
+        "foreground": "#e2dde2",
+        "cursor": "#e2dde2"
+    },
+    "colors": {
+        "color0": "#0a070c",
+        "color1": "#A693A9",
+        "color2": "#CDAEAB",
+        "color3": "#DCC3BB",
+        "color4": "#A69EC2",
+        "color5": "#B6AECA",
+        "color6": "#C7BACB",
+        "color7": "#e2dde2",
+        "color8": "#9e9a9e",
+        "color9": "#A693A9",
+        "color10": "#CDAEAB",
+        "color11": "#DCC3BB",
+        "color12": "#A69EC2",
+        "color13": "#B6AECA",
+        "color14": "#C7BACB",
+        "color15": "#e2dde2"
+    }
+}

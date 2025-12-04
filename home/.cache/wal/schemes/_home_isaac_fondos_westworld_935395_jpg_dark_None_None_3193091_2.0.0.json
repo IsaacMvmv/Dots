@@ -1,0 +1,28 @@
+{
+    "checksum": "e98c266191b84dccd37e5266fca58c37",
+    "wallpaper": "/home/isaac/fondos/westworld/935395.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#251f19",
+        "foreground": "#c8c7c5",
+        "cursor": "#c8c7c5"
+    },
+    "colors": {
+        "color0": "#251f19",
+        "color1": "#A07868",
+        "color2": "#AD8E75",
+        "color3": "#A09070",
+        "color4": "#C2A27D",
+        "color5": "#777C83",
+        "color6": "#B1A08E",
+        "color7": "#c8c7c5",
+        "color8": "#776d62",
+        "color9": "#A07868",
+        "color10": "#AD8E75",
+        "color11": "#A09070",
+        "color12": "#C2A27D",
+        "color13": "#777C83",
+        "color14": "#B1A08E",
+        "color15": "#c8c7c5"
+    }
+}

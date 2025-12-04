@@ -1,0 +1,28 @@
+{
+    "checksum": "0d4c1f101dff5ae8a268ebb34236d783",
+    "wallpaper": "/home/isaac/fondos/cabaalleros.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b1b1b",
+        "foreground": "#c2c6c6",
+        "cursor": "#c2c6c6"
+    },
+    "colors": {
+        "color0": "#0b1b1b",
+        "color1": "#474E56",
+        "color2": "#4D5766",
+        "color3": "#5C6871",
+        "color4": "#788575",
+        "color5": "#3E5587",
+        "color6": "#667589",
+        "color7": "#c2c6c6",
+        "color8": "#5a6f6f",
+        "color9": "#474E56",
+        "color10": "#4D5766",
+        "color11": "#5C6871",
+        "color12": "#788575",
+        "color13": "#3E5587",
+        "color14": "#667589",
+        "color15": "#c2c6c6"
+    }
+}

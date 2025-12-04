@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/llmK2op.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#04060E",
+        "foreground": "#8ec3e5",
+        "cursor": "#8ec3e5"
+    },
+    "colors": {
+        "color0": "#04060E",
+        "color1": "#23486A",
+        "color2": "#AD1E5E",
+        "color3": "#7B9261",
+        "color4": "#115F9A",
+        "color5": "#4566AA",
+        "color6": "#CB41AD",
+        "color7": "#8ec3e5",
+        "color8": "#6388a0",
+        "color9": "#23486A",
+        "color10": "#AD1E5E",
+        "color11": "#7B9261",
+        "color12": "#115F9A",
+        "color13": "#4566AA",
+        "color14": "#CB41AD",
+        "color15": "#8ec3e5"
+    }
+}

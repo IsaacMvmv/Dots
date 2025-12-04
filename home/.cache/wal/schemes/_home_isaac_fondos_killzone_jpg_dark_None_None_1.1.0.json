@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/killzone.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C0C0B",
+        "foreground": "#e7e7e5",
+        "cursor": "#e7e7e5"
+    },
+    "colors": {
+        "color0": "#0C0C0B",
+        "color1": "#B85E41",
+        "color2": "#8F908F",
+        "color3": "#A0A19F",
+        "color4": "#B0B1B1",
+        "color5": "#C5BFBA",
+        "color6": "#D0D2D1",
+        "color7": "#e7e7e5",
+        "color8": "#a1a1a0",
+        "color9": "#B85E41",
+        "color10": "#8F908F",
+        "color11": "#A0A19F",
+        "color12": "#B0B1B1",
+        "color13": "#C5BFBA",
+        "color14": "#D0D2D1",
+        "color15": "#e7e7e5"
+    }
+}

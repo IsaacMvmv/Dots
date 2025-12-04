@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/AbyRZsE.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0E181F",
+        "foreground": "#d179b8",
+        "cursor": "#d179b8"
+    },
+    "colors": {
+        "color0": "#0E181F",
+        "color1": "#750C5D",
+        "color2": "#780C63",
+        "color3": "#800B3B",
+        "color4": "#800B53",
+        "color5": "#8D096B",
+        "color6": "#A6067A",
+        "color7": "#d179b8",
+        "color8": "#925480",
+        "color9": "#750C5D",
+        "color10": "#780C63",
+        "color11": "#800B3B",
+        "color12": "#800B53",
+        "color13": "#8D096B",
+        "color14": "#A6067A",
+        "color15": "#d179b8"
+    }
+}

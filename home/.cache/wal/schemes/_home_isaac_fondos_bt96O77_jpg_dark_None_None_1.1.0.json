@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/bt96O77.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#030106",
+        "foreground": "#f6e0f4",
+        "cursor": "#f6e0f4"
+    },
+    "colors": {
+        "color0": "#030106",
+        "color1": "#8D38A7",
+        "color2": "#9E4CB1",
+        "color3": "#B94EC5",
+        "color4": "#E75AE2",
+        "color5": "#BF83C3",
+        "color6": "#F29BEA",
+        "color7": "#f6e0f4",
+        "color8": "#ac9caa",
+        "color9": "#8D38A7",
+        "color10": "#9E4CB1",
+        "color11": "#B94EC5",
+        "color12": "#E75AE2",
+        "color13": "#BF83C3",
+        "color14": "#F29BEA",
+        "color15": "#f6e0f4"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/0010_paper-city-minimal-art.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a050d",
+        "foreground": "#a1cbd2",
+        "cursor": "#a1cbd2"
+    },
+    "colors": {
+        "color0": "#0a050d",
+        "color1": "#2B4E66",
+        "color2": "#5B5A62",
+        "color3": "#9F5B47",
+        "color4": "#C8A55F",
+        "color5": "#407089",
+        "color6": "#91778C",
+        "color7": "#a1cbd2",
+        "color8": "#708e93",
+        "color9": "#2B4E66",
+        "color10": "#5B5A62",
+        "color11": "#9F5B47",
+        "color12": "#C8A55F",
+        "color13": "#407089",
+        "color14": "#91778C",
+        "color15": "#a1cbd2"
+    }
+}

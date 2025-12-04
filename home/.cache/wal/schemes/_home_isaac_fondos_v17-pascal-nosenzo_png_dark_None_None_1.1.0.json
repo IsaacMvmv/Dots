@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/v17-pascal-nosenzo.png",
+    "alpha": "100",
+    "special": {
+        "background": "#231f1f",
+        "foreground": "#e7e6e6",
+        "cursor": "#e7e6e6"
+    },
+    "colors": {
+        "color0": "#231f1f",
+        "color1": "#A19E9E",
+        "color2": "#A29FA0",
+        "color3": "#B1AFAF",
+        "color4": "#C0BFBF",
+        "color5": "#C1BFC0",
+        "color6": "#CECDCD",
+        "color7": "#e7e6e6",
+        "color8": "#a1a1a1",
+        "color9": "#A19E9E",
+        "color10": "#A29FA0",
+        "color11": "#B1AFAF",
+        "color12": "#C0BFBF",
+        "color13": "#C1BFC0",
+        "color14": "#CECDCD",
+        "color15": "#e7e6e6"
+    }
+}

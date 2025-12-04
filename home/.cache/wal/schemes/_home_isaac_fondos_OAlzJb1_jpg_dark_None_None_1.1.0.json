@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/OAlzJb1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#120f0d",
+        "foreground": "#cfbea8",
+        "cursor": "#cfbea8"
+    },
+    "colors": {
+        "color0": "#120f0d",
+        "color1": "#775B43",
+        "color2": "#8C623C",
+        "color3": "#835E42",
+        "color4": "#966C45",
+        "color5": "#A77B49",
+        "color6": "#B3874D",
+        "color7": "#cfbea8",
+        "color8": "#908575",
+        "color9": "#775B43",
+        "color10": "#8C623C",
+        "color11": "#835E42",
+        "color12": "#966C45",
+        "color13": "#A77B49",
+        "color14": "#B3874D",
+        "color15": "#cfbea8"
+    }
+}

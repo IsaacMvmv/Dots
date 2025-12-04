@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/Doom-Eternal-BFG-10000.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e140f",
+        "foreground": "#dae3d1",
+        "cursor": "#dae3d1"
+    },
+    "colors": {
+        "color0": "#0e140f",
+        "color1": "#69CD76",
+        "color2": "#9D8C72",
+        "color3": "#617C83",
+        "color4": "#79BA86",
+        "color5": "#93A792",
+        "color6": "#9AE4A4",
+        "color7": "#dae3d1",
+        "color8": "#989e92",
+        "color9": "#69CD76",
+        "color10": "#9D8C72",
+        "color11": "#617C83",
+        "color12": "#79BA86",
+        "color13": "#93A792",
+        "color14": "#9AE4A4",
+        "color15": "#dae3d1"
+    }
+}

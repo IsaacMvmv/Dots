@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/a-a-flynn-anomaly-final.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0f0e",
+        "foreground": "#bdadac",
+        "cursor": "#bdadac"
+    },
+    "colors": {
+        "color0": "#0d0f0e",
+        "color1": "#48443B",
+        "color2": "#3C4343",
+        "color3": "#4D5250",
+        "color4": "#605B58",
+        "color5": "#5C6463",
+        "color6": "#6E7474",
+        "color7": "#bdadac",
+        "color8": "#847978",
+        "color9": "#48443B",
+        "color10": "#3C4343",
+        "color11": "#4D5250",
+        "color12": "#605B58",
+        "color13": "#5C6463",
+        "color14": "#6E7474",
+        "color15": "#bdadac"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/walle/wall-e-2020-4k-0l.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C0F17",
+        "foreground": "#abc1d9",
+        "cursor": "#abc1d9"
+    },
+    "colors": {
+        "color0": "#0C0F17",
+        "color1": "#264169",
+        "color2": "#27437A",
+        "color3": "#465879",
+        "color4": "#2D4D88",
+        "color5": "#3B63A3",
+        "color6": "#4870AB",
+        "color7": "#abc1d9",
+        "color8": "#778797",
+        "color9": "#264169",
+        "color10": "#27437A",
+        "color11": "#465879",
+        "color12": "#2D4D88",
+        "color13": "#3B63A3",
+        "color14": "#4870AB",
+        "color15": "#abc1d9"
+    }
+}

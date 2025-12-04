@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/rsMjbt2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0B0B",
+        "foreground": "#abdeef",
+        "cursor": "#abdeef"
+    },
+    "colors": {
+        "color0": "#0B0B0B",
+        "color1": "#65696A",
+        "color2": "#0A6F90",
+        "color3": "#187C9D",
+        "color4": "#268EB0",
+        "color5": "#3AA2C4",
+        "color6": "#4CB3D6",
+        "color7": "#abdeef",
+        "color8": "#779ba7",
+        "color9": "#65696A",
+        "color10": "#0A6F90",
+        "color11": "#187C9D",
+        "color12": "#268EB0",
+        "color13": "#3AA2C4",
+        "color14": "#4CB3D6",
+        "color15": "#abdeef"
+    }
+}

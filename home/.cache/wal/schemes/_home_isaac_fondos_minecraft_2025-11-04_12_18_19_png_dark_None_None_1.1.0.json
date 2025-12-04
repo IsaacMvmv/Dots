@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/minecraft/2025-11-04_12.18.19.png",
+    "alpha": "100",
+    "special": {
+        "background": "#070505",
+        "foreground": "#9fd8d7",
+        "cursor": "#9fd8d7"
+    },
+    "colors": {
+        "color0": "#070505",
+        "color1": "#63381B",
+        "color2": "#29423D",
+        "color3": "#29514D",
+        "color4": "#205E5C",
+        "color5": "#4F6762",
+        "color6": "#2D9B99",
+        "color7": "#9fd8d7",
+        "color8": "#6f9796",
+        "color9": "#63381B",
+        "color10": "#29423D",
+        "color11": "#29514D",
+        "color12": "#205E5C",
+        "color13": "#4F6762",
+        "color14": "#2D9B99",
+        "color15": "#9fd8d7"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/tmp/Pokecut_1756462010945.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#111010",
+        "foreground": "#e0dede",
+        "cursor": "#e0dede"
+    },
+    "colors": {
+        "color0": "#111010",
+        "color1": "#88807F",
+        "color2": "#938C8C",
+        "color3": "#A49A9A",
+        "color4": "#B4AFAF",
+        "color5": "#C3BCBC",
+        "color6": "#C4C0BF",
+        "color7": "#e0dede",
+        "color8": "#9c9b9b",
+        "color9": "#88807F",
+        "color10": "#938C8C",
+        "color11": "#A49A9A",
+        "color12": "#B4AFAF",
+        "color13": "#C3BCBC",
+        "color14": "#C4C0BF",
+        "color15": "#e0dede"
+    }
+}

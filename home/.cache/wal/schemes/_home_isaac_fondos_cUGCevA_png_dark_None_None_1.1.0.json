@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/cUGCevA.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0c0a",
+        "foreground": "#d5d7dc",
+        "cursor": "#d5d7dc"
+    },
+    "colors": {
+        "color0": "#0f0c0a",
+        "color1": "#777A85",
+        "color2": "#7C838E",
+        "color3": "#8C8C94",
+        "color4": "#999CA7",
+        "color5": "#ABACB4",
+        "color6": "#B5B9C5",
+        "color7": "#d5d7dc",
+        "color8": "#95969a",
+        "color9": "#777A85",
+        "color10": "#7C838E",
+        "color11": "#8C8C94",
+        "color12": "#999CA7",
+        "color13": "#ABACB4",
+        "color14": "#B5B9C5",
+        "color15": "#d5d7dc"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/Bliss.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1c1e18",
+        "foreground": "#cddbf0",
+        "cursor": "#cddbf0"
+    },
+    "colors": {
+        "color0": "#1c1e18",
+        "color1": "#2D77E9",
+        "color2": "#4D70C3",
+        "color3": "#3B83EB",
+        "color4": "#5F97EF",
+        "color5": "#91A3AB",
+        "color6": "#91B3F0",
+        "color7": "#cddbf0",
+        "color8": "#8f99a8",
+        "color9": "#2D77E9",
+        "color10": "#4D70C3",
+        "color11": "#3B83EB",
+        "color12": "#5F97EF",
+        "color13": "#91A3AB",
+        "color14": "#91B3F0",
+        "color15": "#cddbf0"
+    }
+}

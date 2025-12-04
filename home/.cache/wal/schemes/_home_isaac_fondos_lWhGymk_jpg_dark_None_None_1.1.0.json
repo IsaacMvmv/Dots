@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/lWhGymk.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#08111B",
+        "foreground": "#d8aed9",
+        "cursor": "#d8aed9"
+    },
+    "colors": {
+        "color0": "#08111B",
+        "color1": "#314C6C",
+        "color2": "#4E4D76",
+        "color3": "#2D638B",
+        "color4": "#525389",
+        "color5": "#685F95",
+        "color6": "#9361A7",
+        "color7": "#d8aed9",
+        "color8": "#977997",
+        "color9": "#314C6C",
+        "color10": "#4E4D76",
+        "color11": "#2D638B",
+        "color12": "#525389",
+        "color13": "#685F95",
+        "color14": "#9361A7",
+        "color15": "#d8aed9"
+    }
+}

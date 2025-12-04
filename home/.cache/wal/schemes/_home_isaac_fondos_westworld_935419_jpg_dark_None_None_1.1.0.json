@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/westworld/935419.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0d0b",
+        "foreground": "#dddfdd",
+        "cursor": "#dddfdd"
+    },
+    "colors": {
+        "color0": "#0e0d0b",
+        "color1": "#C49479",
+        "color2": "#9D9C92",
+        "color3": "#AFB3AE",
+        "color4": "#C3BCAF",
+        "color5": "#BCC2BC",
+        "color6": "#CDC7B8",
+        "color7": "#dddfdd",
+        "color8": "#9a9c9a",
+        "color9": "#C49479",
+        "color10": "#9D9C92",
+        "color11": "#AFB3AE",
+        "color12": "#C3BCAF",
+        "color13": "#BCC2BC",
+        "color14": "#CDC7B8",
+        "color15": "#dddfdd"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "61d02e79a86043b36f76082859fd5f48",
+    "wallpaper": "/home/isaac/fondos/cars/844129.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#170909",
+        "foreground": "#c5c1c1",
+        "cursor": "#c5c1c1"
+    },
+    "colors": {
+        "color0": "#170909",
+        "color1": "#E0B667",
+        "color2": "#7A7585",
+        "color3": "#9DA4AF",
+        "color4": "#D8C9B4",
+        "color5": "#9BB0CE",
+        "color6": "#B1B9C4",
+        "color7": "#c5c1c1",
+        "color8": "#6d5959",
+        "color9": "#E0B667",
+        "color10": "#7A7585",
+        "color11": "#9DA4AF",
+        "color12": "#D8C9B4",
+        "color13": "#9BB0CE",
+        "color14": "#B1B9C4",
+        "color15": "#c5c1c1"
+    }
+}

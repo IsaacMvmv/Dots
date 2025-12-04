@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/EOfyWtk.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0d0d",
+        "foreground": "#b9dae0",
+        "cursor": "#b9dae0"
+    },
+    "colors": {
+        "color0": "#0d0d0d",
+        "color1": "#5C858C",
+        "color2": "#618991",
+        "color3": "#6D9CA5",
+        "color4": "#74ABB4",
+        "color5": "#7CB7C1",
+        "color6": "#80BEC9",
+        "color7": "#b9dae0",
+        "color8": "#81989c",
+        "color9": "#5C858C",
+        "color10": "#618991",
+        "color11": "#6D9CA5",
+        "color12": "#74ABB4",
+        "color13": "#7CB7C1",
+        "color14": "#80BEC9",
+        "color15": "#b9dae0"
+    }
+}

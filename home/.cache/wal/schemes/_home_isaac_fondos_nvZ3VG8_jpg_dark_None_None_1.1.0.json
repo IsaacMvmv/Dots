@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/nvZ3VG8.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A053F",
+        "foreground": "#de77ad",
+        "cursor": "#de77ad"
+    },
+    "colors": {
+        "color0": "#0A053F",
+        "color1": "#5B0452",
+        "color2": "#5C0453",
+        "color3": "#6F0356",
+        "color4": "#8C025C",
+        "color5": "#9C0260",
+        "color6": "#AE0264",
+        "color7": "#de77ad",
+        "color8": "#9b5379",
+        "color9": "#5B0452",
+        "color10": "#5C0453",
+        "color11": "#6F0356",
+        "color12": "#8C025C",
+        "color13": "#9C0260",
+        "color14": "#AE0264",
+        "color15": "#de77ad"
+    }
+}

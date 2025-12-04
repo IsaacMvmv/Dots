@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/ppeKBFL.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c060f",
+        "foreground": "#ec8293",
+        "cursor": "#ec8293"
+    },
+    "colors": {
+        "color0": "#0c060f",
+        "color1": "#3B2541",
+        "color2": "#4F2746",
+        "color3": "#6F2A4A",
+        "color4": "#8F1633",
+        "color5": "#B11534",
+        "color6": "#D01636",
+        "color7": "#ec8293",
+        "color8": "#a55b66",
+        "color9": "#3B2541",
+        "color10": "#4F2746",
+        "color11": "#6F2A4A",
+        "color12": "#8F1633",
+        "color13": "#B11534",
+        "color14": "#D01636",
+        "color15": "#ec8293"
+    }
+}

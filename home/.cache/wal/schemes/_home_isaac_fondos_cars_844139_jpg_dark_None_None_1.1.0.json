@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/cars/844139.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0d0b",
+        "foreground": "#cedce5",
+        "cursor": "#cedce5"
+    },
+    "colors": {
+        "color0": "#0f0d0b",
+        "color1": "#B1A494",
+        "color2": "#CBB396",
+        "color3": "#DBCCA9",
+        "color4": "#8AB6D6",
+        "color5": "#A8B8CD",
+        "color6": "#A3C9DF",
+        "color7": "#cedce5",
+        "color8": "#909aa0",
+        "color9": "#B1A494",
+        "color10": "#CBB396",
+        "color11": "#DBCCA9",
+        "color12": "#8AB6D6",
+        "color13": "#A8B8CD",
+        "color14": "#A3C9DF",
+        "color15": "#cedce5"
+    }
+}

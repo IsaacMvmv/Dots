@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/GYmcsNp.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090805",
+        "foreground": "#ebccc5",
+        "cursor": "#ebccc5"
+    },
+    "colors": {
+        "color0": "#090805",
+        "color1": "#3D4348",
+        "color2": "#4C5051",
+        "color3": "#5F6365",
+        "color4": "#A45D52",
+        "color5": "#D78E73",
+        "color6": "#788087",
+        "color7": "#ebccc5",
+        "color8": "#a48e89",
+        "color9": "#3D4348",
+        "color10": "#4C5051",
+        "color11": "#5F6365",
+        "color12": "#A45D52",
+        "color13": "#D78E73",
+        "color14": "#788087",
+        "color15": "#ebccc5"
+    }
+}

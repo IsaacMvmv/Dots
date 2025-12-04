@@ -1,0 +1,5 @@
+set status_display_program=/home/isaac/.config/bin/cmus-notify.sh
+add /home/isaac/Música
+pl-create epica
+pl-create turbio
+set status_display_program=/usr/sbin/cmus_notify

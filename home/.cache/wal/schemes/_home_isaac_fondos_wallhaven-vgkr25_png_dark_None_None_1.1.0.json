@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/wallhaven-vgkr25.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#a4c0d0",
+        "cursor": "#a4c0d0"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#A01954",
+        "color2": "#D92172",
+        "color3": "#31798B",
+        "color4": "#6D739C",
+        "color5": "#FD2889",
+        "color6": "#5395B3",
+        "color7": "#a4c0d0",
+        "color8": "#728691",
+        "color9": "#A01954",
+        "color10": "#D92172",
+        "color11": "#31798B",
+        "color12": "#6D739C",
+        "color13": "#FD2889",
+        "color14": "#5395B3",
+        "color15": "#a4c0d0"
+    }
+}

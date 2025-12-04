@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/doom3.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c131d",
+        "foreground": "#ccdee2",
+        "cursor": "#ccdee2"
+    },
+    "colors": {
+        "color0": "#0c131d",
+        "color1": "#317386",
+        "color2": "#5E7986",
+        "color3": "#67949B",
+        "color4": "#43A6A6",
+        "color5": "#90A5A9",
+        "color6": "#AABDBC",
+        "color7": "#ccdee2",
+        "color8": "#8e9b9e",
+        "color9": "#317386",
+        "color10": "#5E7986",
+        "color11": "#67949B",
+        "color12": "#43A6A6",
+        "color13": "#90A5A9",
+        "color14": "#AABDBC",
+        "color15": "#ccdee2"
+    }
+}

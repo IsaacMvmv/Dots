@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/knight-medieval.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#09090a",
+        "foreground": "#cddcdb",
+        "cursor": "#cddcdb"
+    },
+    "colors": {
+        "color0": "#09090a",
+        "color1": "#9F6C31",
+        "color2": "#627884",
+        "color3": "#749097",
+        "color4": "#79AEC4",
+        "color5": "#8DA3A6",
+        "color6": "#8FAEB2",
+        "color7": "#cddcdb",
+        "color8": "#8f9a99",
+        "color9": "#9F6C31",
+        "color10": "#627884",
+        "color11": "#749097",
+        "color12": "#79AEC4",
+        "color13": "#8DA3A6",
+        "color14": "#8FAEB2",
+        "color15": "#cddcdb"
+    }
+}

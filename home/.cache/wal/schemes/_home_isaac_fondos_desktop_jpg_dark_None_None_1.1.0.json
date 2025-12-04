@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/desktop.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#121628",
+        "foreground": "#f4e0af",
+        "cursor": "#f4e0af"
+    },
+    "colors": {
+        "color0": "#121628",
+        "color1": "#73675B",
+        "color2": "#5D4363",
+        "color3": "#6E4867",
+        "color4": "#9C6C4E",
+        "color5": "#B58C5B",
+        "color6": "#DEA662",
+        "color7": "#f4e0af",
+        "color8": "#aa9c7a",
+        "color9": "#73675B",
+        "color10": "#5D4363",
+        "color11": "#6E4867",
+        "color12": "#9C6C4E",
+        "color13": "#B58C5B",
+        "color14": "#DEA662",
+        "color15": "#f4e0af"
+    }
+}

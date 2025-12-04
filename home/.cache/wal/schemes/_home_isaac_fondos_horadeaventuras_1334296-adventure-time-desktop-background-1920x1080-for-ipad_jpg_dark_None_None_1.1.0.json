@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/horadeaventuras/1334296-adventure-time-desktop-background-1920x1080-for-ipad.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151b0f",
+        "foreground": "#d2e0af",
+        "cursor": "#d2e0af"
+    },
+    "colors": {
+        "color0": "#151b0f",
+        "color1": "#ED710D",
+        "color2": "#96664A",
+        "color3": "#F68A1D",
+        "color4": "#F8A611",
+        "color5": "#FDE41F",
+        "color6": "#AE9E42",
+        "color7": "#d2e0af",
+        "color8": "#939c7a",
+        "color9": "#ED710D",
+        "color10": "#96664A",
+        "color11": "#F68A1D",
+        "color12": "#F8A611",
+        "color13": "#FDE41F",
+        "color14": "#AE9E42",
+        "color15": "#d2e0af"
+    }
+}

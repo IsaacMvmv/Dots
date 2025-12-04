@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/horadeaventuras/1334330-free-download-adventure-time-desktop-background-1920x1080-photo.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#04151A",
+        "foreground": "#7cb1bb",
+        "cursor": "#7cb1bb"
+    },
+    "colors": {
+        "color0": "#04151A",
+        "color1": "#104F51",
+        "color2": "#115966",
+        "color3": "#0E676A",
+        "color4": "#0E857B",
+        "color5": "#6A9044",
+        "color6": "#89B067",
+        "color7": "#7cb1bb",
+        "color8": "#567b82",
+        "color9": "#104F51",
+        "color10": "#115966",
+        "color11": "#0E676A",
+        "color12": "#0E857B",
+        "color13": "#6A9044",
+        "color14": "#89B067",
+        "color15": "#7cb1bb"
+    }
+}

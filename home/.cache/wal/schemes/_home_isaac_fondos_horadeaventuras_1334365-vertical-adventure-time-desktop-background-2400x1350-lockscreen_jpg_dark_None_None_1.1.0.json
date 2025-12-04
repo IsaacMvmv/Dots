@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/horadeaventuras/1334365-vertical-adventure-time-desktop-background-2400x1350-lockscreen.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#e1e1e1",
+        "cursor": "#e1e1e1"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#676767",
+        "color2": "#747474",
+        "color3": "#7E7E7E",
+        "color4": "#878787",
+        "color5": "#B1B1B1",
+        "color6": "#C8C8C8",
+        "color7": "#e1e1e1",
+        "color8": "#9d9d9d",
+        "color9": "#676767",
+        "color10": "#747474",
+        "color11": "#7E7E7E",
+        "color12": "#878787",
+        "color13": "#B1B1B1",
+        "color14": "#C8C8C8",
+        "color15": "#e1e1e1"
+    }
+}

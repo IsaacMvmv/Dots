@@ -1,0 +1,28 @@
+{
+    "checksum": "2cbe87171bbab28e66de42a2a7c10a73",
+    "wallpaper": "/home/isaac/fondos/omnidark.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#19140a",
+        "foreground": "#c5c4c1",
+        "cursor": "#c5c4c1"
+    },
+    "colors": {
+        "color0": "#19140a",
+        "color1": "#413740",
+        "color2": "#6A5C4B",
+        "color3": "#726F7F",
+        "color4": "#8C6B37",
+        "color5": "#8A7553",
+        "color6": "#A79062",
+        "color7": "#c5c4c1",
+        "color8": "#6e6859",
+        "color9": "#413740",
+        "color10": "#6A5C4B",
+        "color11": "#726F7F",
+        "color12": "#8C6B37",
+        "color13": "#8A7553",
+        "color14": "#A79062",
+        "color15": "#c5c4c1"
+    }
+}

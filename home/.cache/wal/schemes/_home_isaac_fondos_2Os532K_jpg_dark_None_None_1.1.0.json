@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/2Os532K.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D0D0D",
+        "foreground": "#b9b7b5",
+        "cursor": "#b9b7b5"
+    },
+    "colors": {
+        "color0": "#0D0D0D",
+        "color1": "#555862",
+        "color2": "#6E6B69",
+        "color3": "#B11617",
+        "color4": "#CB1A1B",
+        "color5": "#D22021",
+        "color6": "#875C5D",
+        "color7": "#b9b7b5",
+        "color8": "#81807e",
+        "color9": "#555862",
+        "color10": "#6E6B69",
+        "color11": "#B11617",
+        "color12": "#CB1A1B",
+        "color13": "#D22021",
+        "color14": "#875C5D",
+        "color15": "#b9b7b5"
+    }
+}

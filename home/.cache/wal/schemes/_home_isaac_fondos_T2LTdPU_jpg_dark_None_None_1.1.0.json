@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/T2LTdPU.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#000000",
+        "foreground": "#79d9e4",
+        "cursor": "#79d9e4"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#177EA1",
+        "color2": "#12839C",
+        "color3": "#158FAC",
+        "color4": "#11A4BB",
+        "color5": "#1A9EC0",
+        "color6": "#0BB6CD",
+        "color7": "#79d9e4",
+        "color8": "#54979f",
+        "color9": "#177EA1",
+        "color10": "#12839C",
+        "color11": "#158FAC",
+        "color12": "#11A4BB",
+        "color13": "#1A9EC0",
+        "color14": "#0BB6CD",
+        "color15": "#79d9e4"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/Z75KaRk.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#041214",
+        "foreground": "#99c0c3",
+        "cursor": "#99c0c3"
+    },
+    "colors": {
+        "color0": "#041214",
+        "color1": "#084A51",
+        "color2": "#0A5369",
+        "color3": "#186266",
+        "color4": "#556A6C",
+        "color5": "#136C8C",
+        "color6": "#597693",
+        "color7": "#99c0c3",
+        "color8": "#6b8688",
+        "color9": "#084A51",
+        "color10": "#0A5369",
+        "color11": "#186266",
+        "color12": "#556A6C",
+        "color13": "#136C8C",
+        "color14": "#597693",
+        "color15": "#99c0c3"
+    }
+}

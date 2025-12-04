@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/ahUm2IB.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0F0A12",
+        "foreground": "#cedaef",
+        "cursor": "#cedaef"
+    },
+    "colors": {
+        "color0": "#0F0A12",
+        "color1": "#4D53AA",
+        "color2": "#5857A2",
+        "color3": "#9E58AA",
+        "color4": "#7893C3",
+        "color5": "#6A95ED",
+        "color6": "#99A6E9",
+        "color7": "#cedaef",
+        "color8": "#9098a7",
+        "color9": "#4D53AA",
+        "color10": "#5857A2",
+        "color11": "#9E58AA",
+        "color12": "#7893C3",
+        "color13": "#6A95ED",
+        "color14": "#99A6E9",
+        "color15": "#cedaef"
+    }
+}

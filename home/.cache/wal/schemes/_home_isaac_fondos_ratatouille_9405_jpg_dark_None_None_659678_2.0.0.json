@@ -1,0 +1,28 @@
+{
+    "checksum": "82403fc19ba68931ed1541f947824da5",
+    "wallpaper": "/home/isaac/fondos/ratatouille/9405.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#170a0a",
+        "foreground": "#c5c1c1",
+        "cursor": "#c5c1c1"
+    },
+    "colors": {
+        "color0": "#170a0a",
+        "color1": "#A28974",
+        "color2": "#DF9969",
+        "color3": "#798089",
+        "color4": "#A99F96",
+        "color5": "#CCB19F",
+        "color6": "#E5CFAC",
+        "color7": "#c5c1c1",
+        "color8": "#6d5959",
+        "color9": "#A28974",
+        "color10": "#DF9969",
+        "color11": "#798089",
+        "color12": "#A99F96",
+        "color13": "#CCB19F",
+        "color14": "#E5CFAC",
+        "color15": "#c5c1c1"
+    }
+}

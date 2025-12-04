@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/C5O2ObJS.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#0B0A0B",
+        "foreground": "#e4a8a1",
+        "cursor": "#e4a8a1"
+    },
+    "colors": {
+        "color0": "#0B0A0B",
+        "color1": "#4C3645",
+        "color2": "#50494D",
+        "color3": "#6D5760",
+        "color4": "#C42E3D",
+        "color5": "#9A1A4F",
+        "color6": "#A2545A",
+        "color7": "#e4a8a1",
+        "color8": "#9f7570",
+        "color9": "#4C3645",
+        "color10": "#50494D",
+        "color11": "#6D5760",
+        "color12": "#C42E3D",
+        "color13": "#9A1A4F",
+        "color14": "#A2545A",
+        "color15": "#e4a8a1"
+    }
+}

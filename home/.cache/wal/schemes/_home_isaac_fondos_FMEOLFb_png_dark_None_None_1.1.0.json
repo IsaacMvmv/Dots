@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/FMEOLFb.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101010",
+        "foreground": "#cbdfdf",
+        "cursor": "#cbdfdf"
+    },
+    "colors": {
+        "color0": "#101010",
+        "color1": "#976464",
+        "color2": "#3EB6B6",
+        "color3": "#649898",
+        "color4": "#9B9999",
+        "color5": "#B0B0B0",
+        "color6": "#D2A7A7",
+        "color7": "#cbdfdf",
+        "color8": "#8e9c9c",
+        "color9": "#976464",
+        "color10": "#3EB6B6",
+        "color11": "#649898",
+        "color12": "#9B9999",
+        "color13": "#B0B0B0",
+        "color14": "#D2A7A7",
+        "color15": "#cbdfdf"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/feh_009065_000001_TzKofnb.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090b0c",
+        "foreground": "#e4adbf",
+        "cursor": "#e4adbf"
+    },
+    "colors": {
+        "color0": "#090b0c",
+        "color1": "#623847",
+        "color2": "#3B4044",
+        "color3": "#4D4C50",
+        "color4": "#685A62",
+        "color5": "#913851",
+        "color6": "#A84C67",
+        "color7": "#e4adbf",
+        "color8": "#9f7985",
+        "color9": "#623847",
+        "color10": "#3B4044",
+        "color11": "#4D4C50",
+        "color12": "#685A62",
+        "color13": "#913851",
+        "color14": "#A84C67",
+        "color15": "#e4adbf"
+    }
+}

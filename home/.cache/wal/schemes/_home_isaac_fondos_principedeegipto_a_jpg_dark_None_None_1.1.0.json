@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/principedeegipto/a.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161715",
+        "foreground": "#f3decd",
+        "cursor": "#f3decd"
+    },
+    "colors": {
+        "color0": "#161715",
+        "color1": "#D18D70",
+        "color2": "#F49369",
+        "color3": "#F7B277",
+        "color4": "#2D7492",
+        "color5": "#E6AF8B",
+        "color6": "#F9CC92",
+        "color7": "#f3decd",
+        "color8": "#aa9b8f",
+        "color9": "#D18D70",
+        "color10": "#F49369",
+        "color11": "#F7B277",
+        "color12": "#2D7492",
+        "color13": "#E6AF8B",
+        "color14": "#F9CC92",
+        "color15": "#f3decd"
+    }
+}

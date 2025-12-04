@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/skull_gold-73669.jpg!d.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0d0d",
+        "foreground": "#e3dfc9",
+        "cursor": "#e3dfc9"
+    },
+    "colors": {
+        "color0": "#0d0d0d",
+        "color1": "#6A6656",
+        "color2": "#8C6637",
+        "color3": "#91744E",
+        "color4": "#758867",
+        "color5": "#A79365",
+        "color6": "#CBAA71",
+        "color7": "#e3dfc9",
+        "color8": "#9e9c8c",
+        "color9": "#6A6656",
+        "color10": "#8C6637",
+        "color11": "#91744E",
+        "color12": "#758867",
+        "color13": "#A79365",
+        "color14": "#CBAA71",
+        "color15": "#e3dfc9"
+    }
+}

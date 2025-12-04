@@ -1,0 +1,28 @@
+{
+    "checksum": "05d6c0d93ad034aa9ef133055e4c954e",
+    "wallpaper": "/home/isaac/fondos/horadeaventuras/1334294-adventure-time-desktop-background-1920x1200-for-windows.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#201f1a",
+        "foreground": "#c7c7c5",
+        "cursor": "#c7c7c5"
+    },
+    "colors": {
+        "color0": "#201f1a",
+        "color1": "#A3A298",
+        "color2": "#BEB9B6",
+        "color3": "#D3A8A3",
+        "color4": "#D5CEAE",
+        "color5": "#DDD6C6",
+        "color6": "#E4DCCC",
+        "color7": "#c7c7c5",
+        "color8": "#767161",
+        "color9": "#A3A298",
+        "color10": "#BEB9B6",
+        "color11": "#D3A8A3",
+        "color12": "#D5CEAE",
+        "color13": "#DDD6C6",
+        "color14": "#E4DCCC",
+        "color15": "#c7c7c5"
+    }
+}

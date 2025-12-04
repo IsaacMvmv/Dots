@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/horadeaventuras/jake-the-dog-minimal-h9.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0B19",
+        "foreground": "#e2edf1",
+        "cursor": "#e2edf1"
+    },
+    "colors": {
+        "color0": "#0A0B19",
+        "color1": "#111CA5",
+        "color2": "#113CB5",
+        "color3": "#144DBA",
+        "color4": "#50639F",
+        "color5": "#9395A4",
+        "color6": "#E7DAD2",
+        "color7": "#e2edf1",
+        "color8": "#9ea5a8",
+        "color9": "#111CA5",
+        "color10": "#113CB5",
+        "color11": "#144DBA",
+        "color12": "#50639F",
+        "color13": "#9395A4",
+        "color14": "#E7DAD2",
+        "color15": "#e2edf1"
+    }
+}

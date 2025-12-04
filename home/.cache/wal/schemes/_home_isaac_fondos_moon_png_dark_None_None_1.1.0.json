@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/moon.png",
+    "alpha": "100",
+    "special": {
+        "background": "#000B17",
+        "foreground": "#ddd7cf",
+        "cursor": "#ddd7cf"
+    },
+    "colors": {
+        "color0": "#000B17",
+        "color1": "#45585C",
+        "color2": "#576567",
+        "color3": "#5E696A",
+        "color4": "#7C817F",
+        "color5": "#89857C",
+        "color6": "#A59F93",
+        "color7": "#ddd7cf",
+        "color8": "#9a9690",
+        "color9": "#45585C",
+        "color10": "#576567",
+        "color11": "#5E696A",
+        "color12": "#7C817F",
+        "color13": "#89857C",
+        "color14": "#A59F93",
+        "color15": "#ddd7cf"
+    }
+}

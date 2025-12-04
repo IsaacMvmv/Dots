@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/tmp/cabaalleros.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0d0d",
+        "foreground": "#b2bbc4",
+        "cursor": "#b2bbc4"
+    },
+    "colors": {
+        "color0": "#0c0d0d",
+        "color1": "#474E56",
+        "color2": "#4D5766",
+        "color3": "#5C6871",
+        "color4": "#788575",
+        "color5": "#3E5587",
+        "color6": "#667589",
+        "color7": "#b2bbc4",
+        "color8": "#7c8289",
+        "color9": "#474E56",
+        "color10": "#4D5766",
+        "color11": "#5C6871",
+        "color12": "#788575",
+        "color13": "#3E5587",
+        "color14": "#667589",
+        "color15": "#b2bbc4"
+    }
+}

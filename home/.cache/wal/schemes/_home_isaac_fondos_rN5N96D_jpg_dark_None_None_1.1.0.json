@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/rN5N96D.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#07080E",
+        "foreground": "#bdaec5",
+        "cursor": "#bdaec5"
+    },
+    "colors": {
+        "color0": "#07080E",
+        "color1": "#512E4F",
+        "color2": "#374470",
+        "color3": "#4B4A73",
+        "color4": "#3C4693",
+        "color5": "#384B91",
+        "color6": "#555D9C",
+        "color7": "#bdaec5",
+        "color8": "#847989",
+        "color9": "#512E4F",
+        "color10": "#374470",
+        "color11": "#4B4A73",
+        "color12": "#3C4693",
+        "color13": "#384B91",
+        "color14": "#555D9C",
+        "color15": "#bdaec5"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/vn0bcohclir51.webp",
+    "alpha": "100",
+    "special": {
+        "background": "#070B14",
+        "foreground": "#a4cec9",
+        "cursor": "#a4cec9"
+    },
+    "colors": {
+        "color0": "#070B14",
+        "color1": "#084952",
+        "color2": "#0E4E6D",
+        "color3": "#225769",
+        "color4": "#2D8B73",
+        "color5": "#1A6290",
+        "color6": "#4D568C",
+        "color7": "#a4cec9",
+        "color8": "#72908c",
+        "color9": "#084952",
+        "color10": "#0E4E6D",
+        "color11": "#225769",
+        "color12": "#2D8B73",
+        "color13": "#1A6290",
+        "color14": "#4D568C",
+        "color15": "#a4cec9"
+    }
+}

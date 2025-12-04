@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/tmp/mpvpaper-stop/mpv-shot0006.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#080709",
+        "foreground": "#c8c2c1",
+        "cursor": "#c8c2c1"
+    },
+    "colors": {
+        "color0": "#080709",
+        "color1": "#665F60",
+        "color2": "#77706C",
+        "color3": "#827A76",
+        "color4": "#87827D",
+        "color5": "#857F81",
+        "color6": "#938B88",
+        "color7": "#c8c2c1",
+        "color8": "#8c8787",
+        "color9": "#665F60",
+        "color10": "#77706C",
+        "color11": "#827A76",
+        "color12": "#87827D",
+        "color13": "#857F81",
+        "color14": "#938B88",
+        "color15": "#c8c2c1"
+    }
+}

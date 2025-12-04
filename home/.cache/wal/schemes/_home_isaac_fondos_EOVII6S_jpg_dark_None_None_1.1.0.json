@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/EOVII6S.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0709",
+        "foreground": "#f6f6f6",
+        "cursor": "#f6f6f6"
+    },
+    "colors": {
+        "color0": "#0c0709",
+        "color1": "#3D1E41",
+        "color2": "#4D244A",
+        "color3": "#51214C",
+        "color4": "#8B316F",
+        "color5": "#A6A6A6",
+        "color6": "#C5C6C5",
+        "color7": "#f6f6f6",
+        "color8": "#acacac",
+        "color9": "#3D1E41",
+        "color10": "#4D244A",
+        "color11": "#51214C",
+        "color12": "#8B316F",
+        "color13": "#A6A6A6",
+        "color14": "#C5C6C5",
+        "color15": "#f6f6f6"
+    }
+}

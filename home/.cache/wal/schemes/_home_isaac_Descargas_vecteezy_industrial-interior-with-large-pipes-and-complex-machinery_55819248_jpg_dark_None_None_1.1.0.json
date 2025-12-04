@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/Descargas/vecteezy_industrial-interior-with-large-pipes-and-complex-machinery_55819248.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0908",
+        "foreground": "#d5c297",
+        "cursor": "#d5c297"
+    },
+    "colors": {
+        "color0": "#0c0908",
+        "color1": "#715126",
+        "color2": "#776848",
+        "color3": "#845B1B",
+        "color4": "#916821",
+        "color5": "#916A27",
+        "color6": "#8E764C",
+        "color7": "#d5c297",
+        "color8": "#958769",
+        "color9": "#715126",
+        "color10": "#776848",
+        "color11": "#845B1B",
+        "color12": "#916821",
+        "color13": "#916A27",
+        "color14": "#8E764C",
+        "color15": "#d5c297"
+    }
+}

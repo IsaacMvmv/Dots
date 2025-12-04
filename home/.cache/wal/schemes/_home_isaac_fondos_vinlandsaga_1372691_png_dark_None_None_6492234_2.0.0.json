@@ -1,0 +1,28 @@
+{
+    "checksum": "cf601c93360a74c52425eba1ba8efb4c",
+    "wallpaper": "/home/isaac/fondos/vinlandsaga/1372691.png",
+    "alpha": "100",
+    "special": {
+        "background": "#141515",
+        "foreground": "#c4c4c4",
+        "cursor": "#c4c4c4"
+    },
+    "colors": {
+        "color0": "#141515",
+        "color1": "#8D8E8F",
+        "color2": "#9C9FA0",
+        "color3": "#9EA2A2",
+        "color4": "#AAACAC",
+        "color5": "#BDC1C1",
+        "color6": "#CFD2D2",
+        "color7": "#c4c4c4",
+        "color8": "#705b5b",
+        "color9": "#8D8E8F",
+        "color10": "#9C9FA0",
+        "color11": "#9EA2A2",
+        "color12": "#AAACAC",
+        "color13": "#BDC1C1",
+        "color14": "#CFD2D2",
+        "color15": "#c4c4c4"
+    }
+}

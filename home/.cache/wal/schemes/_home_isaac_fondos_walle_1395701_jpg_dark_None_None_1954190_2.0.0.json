@@ -1,0 +1,28 @@
+{
+    "checksum": "d492754932ea5e6ee830df2d5f309f12",
+    "wallpaper": "/home/isaac/fondos/walle/1395701.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1c22",
+        "foreground": "#c3c6c7",
+        "cursor": "#c3c6c7"
+    },
+    "colors": {
+        "color0": "#0f1c22",
+        "color1": "#807B6D",
+        "color2": "#4C728D",
+        "color3": "#6D8D8D",
+        "color4": "#749BA5",
+        "color5": "#5292C9",
+        "color6": "#92ABAD",
+        "color7": "#c3c6c7",
+        "color8": "#5e6c73",
+        "color9": "#807B6D",
+        "color10": "#4C728D",
+        "color11": "#6D8D8D",
+        "color12": "#749BA5",
+        "color13": "#5292C9",
+        "color14": "#92ABAD",
+        "color15": "#c3c6c7"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/vgjd88.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0c10",
+        "foreground": "#afbdc0",
+        "cursor": "#afbdc0"
+    },
+    "colors": {
+        "color0": "#0b0c10",
+        "color1": "#35464C",
+        "color2": "#39546A",
+        "color3": "#465557",
+        "color4": "#55686D",
+        "color5": "#CA2266",
+        "color6": "#5B7786",
+        "color7": "#afbdc0",
+        "color8": "#7a8486",
+        "color9": "#35464C",
+        "color10": "#39546A",
+        "color11": "#465557",
+        "color12": "#55686D",
+        "color13": "#CA2266",
+        "color14": "#5B7786",
+        "color15": "#afbdc0"
+    }
+}

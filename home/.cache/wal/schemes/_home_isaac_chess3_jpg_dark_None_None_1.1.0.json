@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/chess3.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0f0f",
+        "foreground": "#dedede",
+        "cursor": "#dedede"
+    },
+    "colors": {
+        "color0": "#0f0f0f",
+        "color1": "#909090",
+        "color2": "#9EA09F",
+        "color3": "#9FA1A0",
+        "color4": "#B0B0B0",
+        "color5": "#C4C4C4",
+        "color6": "#CACACA",
+        "color7": "#dedede",
+        "color8": "#9b9b9b",
+        "color9": "#909090",
+        "color10": "#9EA09F",
+        "color11": "#9FA1A0",
+        "color12": "#B0B0B0",
+        "color13": "#C4C4C4",
+        "color14": "#CACACA",
+        "color15": "#dedede"
+    }
+}

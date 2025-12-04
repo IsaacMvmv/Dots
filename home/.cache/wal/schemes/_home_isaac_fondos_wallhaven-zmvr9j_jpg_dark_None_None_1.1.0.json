@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/wallhaven-zmvr9j.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0c12",
+        "foreground": "#e4c8ec",
+        "cursor": "#e4c8ec"
+    },
+    "colors": {
+        "color0": "#0a0c12",
+        "color1": "#4A3E6E",
+        "color2": "#34475D",
+        "color3": "#242896",
+        "color4": "#5044B5",
+        "color5": "#A96BDB",
+        "color6": "#4FB7EB",
+        "color7": "#e4c8ec",
+        "color8": "#9f8ca5",
+        "color9": "#4A3E6E",
+        "color10": "#34475D",
+        "color11": "#242896",
+        "color12": "#5044B5",
+        "color13": "#A96BDB",
+        "color14": "#4FB7EB",
+        "color15": "#e4c8ec"
+    }
+}

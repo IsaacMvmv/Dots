@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/wm9GuOi.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#040E11",
+        "foreground": "#a0cbe0",
+        "cursor": "#a0cbe0"
+    },
+    "colors": {
+        "color0": "#040E11",
+        "color1": "#26566C",
+        "color2": "#466E76",
+        "color3": "#2F718E",
+        "color4": "#447997",
+        "color5": "#358AAE",
+        "color6": "#4DA0BB",
+        "color7": "#a0cbe0",
+        "color8": "#708e9c",
+        "color9": "#26566C",
+        "color10": "#466E76",
+        "color11": "#2F718E",
+        "color12": "#447997",
+        "color13": "#358AAE",
+        "color14": "#4DA0BB",
+        "color15": "#a0cbe0"
+    }
+}

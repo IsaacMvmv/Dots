@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/wolff.png",
+    "alpha": "100",
+    "special": {
+        "background": "#070606",
+        "foreground": "#92d8e8",
+        "cursor": "#92d8e8"
+    },
+    "colors": {
+        "color0": "#070606",
+        "color1": "#D23E4D",
+        "color2": "#E9AC3F",
+        "color3": "#FBDE1E",
+        "color4": "#4C4FCF",
+        "color5": "#EC189E",
+        "color6": "#9E29F5",
+        "color7": "#92d8e8",
+        "color8": "#6697a2",
+        "color9": "#D23E4D",
+        "color10": "#E9AC3F",
+        "color11": "#FBDE1E",
+        "color12": "#4C4FCF",
+        "color13": "#EC189E",
+        "color14": "#9E29F5",
+        "color15": "#92d8e8"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/DWIbIMy.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0c12",
+        "foreground": "#cbe1f1",
+        "cursor": "#cbe1f1"
+    },
+    "colors": {
+        "color0": "#0e0c12",
+        "color1": "#584059",
+        "color2": "#A07B65",
+        "color3": "#1D5F96",
+        "color4": "#3F62AD",
+        "color5": "#53A7CA",
+        "color6": "#B2BBC1",
+        "color7": "#cbe1f1",
+        "color8": "#8e9da8",
+        "color9": "#584059",
+        "color10": "#A07B65",
+        "color11": "#1D5F96",
+        "color12": "#3F62AD",
+        "color13": "#53A7CA",
+        "color14": "#B2BBC1",
+        "color15": "#cbe1f1"
+    }
+}

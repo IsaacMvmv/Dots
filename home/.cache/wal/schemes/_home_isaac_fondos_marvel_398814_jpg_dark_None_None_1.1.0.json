@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/marvel/398814.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#080812",
+        "foreground": "#bbafc4",
+        "cursor": "#bbafc4"
+    },
+    "colors": {
+        "color0": "#080812",
+        "color1": "#44315A",
+        "color2": "#4B356B",
+        "color3": "#5D4775",
+        "color4": "#8D6A75",
+        "color5": "#4E3E87",
+        "color6": "#6E578C",
+        "color7": "#bbafc4",
+        "color8": "#827a89",
+        "color9": "#44315A",
+        "color10": "#4B356B",
+        "color11": "#5D4775",
+        "color12": "#8D6A75",
+        "color13": "#4E3E87",
+        "color14": "#6E578C",
+        "color15": "#bbafc4"
+    }
+}

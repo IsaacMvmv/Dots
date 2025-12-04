@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/win7.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#694e1b",
+        "foreground": "#c3ecf3",
+        "cursor": "#c3ecf3"
+    },
+    "colors": {
+        "color0": "#694e1b",
+        "color1": "#0C90EF",
+        "color2": "#12ACF5",
+        "color3": "#21A1E8",
+        "color4": "#4BB8E2",
+        "color5": "#2FC7F7",
+        "color6": "#5DD5F7",
+        "color7": "#c3ecf3",
+        "color8": "#88a5aa",
+        "color9": "#0C90EF",
+        "color10": "#12ACF5",
+        "color11": "#21A1E8",
+        "color12": "#4BB8E2",
+        "color13": "#2FC7F7",
+        "color14": "#5DD5F7",
+        "color15": "#c3ecf3"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/fondos/DGDufyB.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#090606",
+        "foreground": "#eab4b9",
+        "cursor": "#eab4b9"
+    },
+    "colors": {
+        "color0": "#090606",
+        "color1": "#5D444E",
+        "color2": "#8E1617",
+        "color3": "#A51E1F",
+        "color4": "#D52626",
+        "color5": "#CF4344",
+        "color6": "#E75A59",
+        "color7": "#eab4b9",
+        "color8": "#a37d81",
+        "color9": "#5D444E",
+        "color10": "#8E1617",
+        "color11": "#A51E1F",
+        "color12": "#D52626",
+        "color13": "#CF4344",
+        "color14": "#E75A59",
+        "color15": "#eab4b9"
+    }
+}

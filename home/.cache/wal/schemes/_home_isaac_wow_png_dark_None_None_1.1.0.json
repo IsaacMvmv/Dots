@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/isaac/wow.png",
+    "alpha": "100",
+    "special": {
+        "background": "#090c0d",
+        "foreground": "#7ed5e0",
+        "cursor": "#7ed5e0"
+    },
+    "colors": {
+        "color0": "#090c0d",
+        "color1": "#485458",
+        "color2": "#03788B",
+        "color3": "#497986",
+        "color4": "#0196A4",
+        "color5": "#5793A3",
+        "color6": "#64A9BB",
+        "color7": "#7ed5e0",
+        "color8": "#58959c",
+        "color9": "#485458",
+        "color10": "#03788B",
+        "color11": "#497986",
+        "color12": "#0196A4",
+        "color13": "#5793A3",
+        "color14": "#64A9BB",
+        "color15": "#7ed5e0"
+    }
+}
